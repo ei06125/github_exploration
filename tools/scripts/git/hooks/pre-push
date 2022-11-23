@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# =============================================================================
+# Fun Fact: we can use the following shebang line for cross-compiling:
+# /* #!/bin/sh; C:/Program\ Files/path/to/Git/usr/bin/sh.exe */
+# according to https://www.youtube.com/watch?v=fMYv6-SZsSo
+# =============================================================================
+
+echo "Running pre-push hook..."
